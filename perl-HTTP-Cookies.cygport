@@ -1,0 +1,11 @@
+CPAN_AUTHOR="gaas"
+inherit perl
+
+NAME="perl-HTTP-Cookies"
+VERSION=6.01
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="HTTP cookie jar modules for Perl"
+DESCRIPTION="This class is for objects that represent a cookie jar -- that is,
+a database of all the HTTP cookies that a given LWP::UserAgent object knows
+about."
